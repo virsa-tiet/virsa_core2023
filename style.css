@@ -18,7 +18,7 @@
 	margin: 0rem 0;
   }
   .div{
-	background-image: url(seamless-gold-rhombus-grid-pattern-black-background_53876-97589.avif);
+	background-image: url(https://imagizer.imageshack.com/img923/5291/WElSeJ.jpg);
   }
   .wrapper{
 	width: 90%;
@@ -32,7 +32,7 @@
   }
   .name:hover{
 	font-size:1.25rem;
-	color: #000;
+	color:white;
   }
  
 	
@@ -80,6 +80,7 @@
 	  border-radius: 10px;
 	  color: #fff;
 	  font-size: 1.5rem;
+	  
   }
   
   .back{
@@ -167,6 +168,7 @@
   }
   
   .front .inner p{
+	
 	font-size: 2rem;
 	margin-bottom: 2rem;
 	position: relative;
@@ -183,10 +185,12 @@
 	right: 0;
 	margin: 0 auto;
 	bottom: -.75rem;
+	
   }
   
   .front .inner span{
 	color: rgba(255,255,255,0.7);
+	
 	font-family: 'Montserrat';
 	font-weight: 300;
   }
